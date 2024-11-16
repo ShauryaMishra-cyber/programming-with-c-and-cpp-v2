@@ -2,8 +2,8 @@
 
     int main() {
 
-        puts("I am Rahul.");
-        puts("I am 20 years old.");
+        puts("I am Shaurya Mishra.");
+        puts("I am 7 years old.");
 
         return 0;
     }
